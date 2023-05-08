@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 431552137}
   - component: {fileID: 431552136}
   - component: {fileID: 431552138}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Character / FP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 901528568}
   - component: {fileID: 901528567}
   - component: {fileID: 901528566}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -308,7 +308,7 @@ GameObject:
   - component: {fileID: 917975767}
   - component: {fileID: 917975766}
   - component: {fileID: 917975765}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 'Character '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -406,7 +406,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -502,7 +502,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1514268783}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground Check
   m_TagString: Untagged
   m_Icon: {fileID: 0}
